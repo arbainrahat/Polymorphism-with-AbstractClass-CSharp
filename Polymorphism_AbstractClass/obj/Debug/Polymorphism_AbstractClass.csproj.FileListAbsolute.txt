@@ -1,0 +1,7 @@
+G:\C#\OPP\Polymorphism_AbstractClass\Polymorphism_AbstractClass\bin\Debug\Polymorphism_AbstractClass.exe.config
+G:\C#\OPP\Polymorphism_AbstractClass\Polymorphism_AbstractClass\bin\Debug\Polymorphism_AbstractClass.exe
+G:\C#\OPP\Polymorphism_AbstractClass\Polymorphism_AbstractClass\bin\Debug\Polymorphism_AbstractClass.pdb
+G:\C#\OPP\Polymorphism_AbstractClass\Polymorphism_AbstractClass\obj\Debug\Polymorphism_AbstractClass.csprojAssemblyReference.cache
+G:\C#\OPP\Polymorphism_AbstractClass\Polymorphism_AbstractClass\obj\Debug\Polymorphism_AbstractClass.csproj.CoreCompileInputs.cache
+G:\C#\OPP\Polymorphism_AbstractClass\Polymorphism_AbstractClass\obj\Debug\Polymorphism_AbstractClass.exe
+G:\C#\OPP\Polymorphism_AbstractClass\Polymorphism_AbstractClass\obj\Debug\Polymorphism_AbstractClass.pdb
